@@ -29,7 +29,7 @@ This repository contains software originally developed by the DISIT Lab and is l
 See the [LICENSE](LICENSE) file for full terms.
 
 ## Contributions
-These files were developed by **Ala Arman** during their time at the **DISIT Lab**. This repository serves as a personal archive of their contributions to the Snap4City ecosystem.
+Point of Interest (POI) Loader and DataTableManager Loader files were developed by **Ala Arman** during their time at the **DISIT Lab**. This repository serves as a personal archive of their contributions to the Snap4City ecosystem.
 
 ## Disclaimer
 These files are provided "as is," without warranty of any kind, under the terms of the AGPL v3. For inquiries about the original Snap4City components, please contact [Paolo Nesi](mailto:Paolo.nesi@unifi.it) or visit the Snap4City platform.
